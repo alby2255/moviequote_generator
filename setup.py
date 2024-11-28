@@ -8,7 +8,7 @@ setup(
     description="This is random movie quote generator",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/my_library",
+    url="https://github.com/alby2255/moviequote_generator",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
