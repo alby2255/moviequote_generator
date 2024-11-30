@@ -1,18 +1,18 @@
-### H3 Overview
+### Overview
 
 The MovieQuotes library is a lightweight Python library designed to generate and manage famous movie quotes. It provides functionality to fetch random quotes, search quotes by movie titles, add new quotes, and list all stored quotes. This is a simple tool for entertainment, this library makes working with movie quotes fun and easy.
 
-### H3 Features
+### Features
 1. Get Random Quote: Fetch a random quote from the predefined database.
 2. Search Quotes by Movie: Find quotes from a specific movie.
 3. Add Custom Quotes: Expand the quote database with your own favorite quotes.
 4. List All Quotes: View the entire collection of stored quotes.
 
-### H3 Installation
+### Installation
 
  To install do **pip install moviequote-generator** 
 
-### H3 Usage
+### Usage
 
 from moviequote_generator.core import MovieQuotes
 
